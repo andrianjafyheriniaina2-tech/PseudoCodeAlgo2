@@ -1,0 +1,2 @@
+# PseudoCodeAlgo2
+Algorithme
